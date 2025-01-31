@@ -21,6 +21,7 @@ This project simulates a ticketing system using Zammad to demonstrate security h
 
 ## Steps
 -Create and Prepare an Ubuntu Server LTS Environment:
+
 After downloading Ubuntu from a reliable and secure source. Input the image file into VMWare and launch the software.
 ![Step1](https://github.com/user-attachments/assets/091309a9-53cf-4ce2-9025-99f762bf7444)
 
