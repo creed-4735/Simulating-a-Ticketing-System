@@ -13,19 +13,19 @@ This project simulates a ticketing system using Zammad to demonstrate security h
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-
-
+- VMWware Workstation Player
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
--Create and Prepare an Ubuntu Server LTS Environment:
+- Create and Prepare an Ubuntu Server LTS Environment:
 
 After downloading Ubuntu from a reliable and secure source. Input the image file into VMWare and launch the software.
 ![Step1](https://github.com/user-attachments/assets/091309a9-53cf-4ce2-9025-99f762bf7444)
 
-
+- Installing Docker with necessary dependencies:
+ Docker simplifies the setup process and helps prevent conflicts with existing system packages, particularly when setting up complex environments. It can containerize services such as PostgreSQL, Elasticsearch, Ruby, Node.js, and Redis, allowing them to run independently but interact with each other as needed.
 
 
 
