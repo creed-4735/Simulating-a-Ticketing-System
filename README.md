@@ -21,11 +21,13 @@ This project simulates a ticketing system using Zammad to demonstrate security h
 ## Steps
 - Create and Prepare an Ubuntu Server LTS Environment:
 
-After downloading Ubuntu from a reliable and secure source. Input the image file into VMWare and launch the software.
-![Step1](https://github.com/user-attachments/assets/091309a9-53cf-4ce2-9025-99f762bf7444)
+After downloading Ubuntu from a reliable and secure source. Input the image file into VMWare and launch the software. Configure Ubuntu as needed.
+![Step1](https://github.com/user-attachments/assets/bce2e7e4-e7cd-4438-903b-d02b45e20cd3)
 
 - Installing Docker with necessary dependencies:
  Docker simplifies the setup process and helps prevent conflicts with existing system packages, particularly when setting up complex environments. It can containerize services such as PostgreSQL, Elasticsearch, Ruby, Node.js, and Redis, allowing them to run independently but interact with each other as needed.
+![Step 2](https://github.com/user-attachments/assets/6d117b62-b7cc-4974-bc15-84fdea5138f5)
+
 
 
 
