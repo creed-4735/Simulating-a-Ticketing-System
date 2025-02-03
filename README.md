@@ -7,7 +7,7 @@ This project simulates a ticketing system using Zammad to demonstrate security h
 ### Skills Learned
 - Virtualization
 - Access Control and User Management (Linux Administration)
-- Secuirty Hardening 
+- Security Hardening 
 - Incident Response and Troubleshooting
 - Log Anaylsis and Monitoring
 - Documentation and Reporting
